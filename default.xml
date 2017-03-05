@@ -116,9 +116,6 @@
   <project path="vendor/discovery" name="proprietary_vendor_discovery" remote="discovery" />
   <project path="vendor/codeaurora/telephony" name="proprietary_vendor_codeaurora_telephony" remote="discovery" />
 
-<!-- The Muppets' vendor -->
-  <include name="themuppets.xml"/>
-
 <!-- LineageOS -->
   <include name="lineage.xml"/>
   
