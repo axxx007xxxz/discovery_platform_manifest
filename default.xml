@@ -72,6 +72,7 @@
   <!-- Discovery ROM hardware -->
   <project path="hardware/libhardware" name="platform_hardware_libhardware" groups="pdk" remote="discovery" />
   <project path="hardware/qcom/audio-caf/msm8996" name="platform_hardware_qcom_audio" groups="qcom,qcom_audio" revision="8996" remote="discovery" />
+  <project path="hardware/qcom/bt-caf" name="platform_hardware_qcom_bt" groups="qcom" remote="discovery" />
   <project path="hardware/qcom/display-caf/msm8996" name="platform_hardware_qcom_display" groups="pdk,qcom,qcom_display" revision="8996" remote="discovery" />
   <project path="hardware/qcom/media-caf/msm8996" name="platform_hardware_qcom_media" groups="qcom" revision="8996" remote="discovery" />
 
